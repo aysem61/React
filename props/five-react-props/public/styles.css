@@ -1,0 +1,62 @@
+
+
+.h1{
+    color: blueviolet;
+    background-size: 30px;
+    margin-left: 580px;
+    -ms-text-combine-horizontal: all;
+}
+.h2{
+    margin-left: 1050px;
+    border-width: 50px;
+    text-decoration-line:underline;
+    text-transform: uppercase;
+
+}
+.hr{
+    font-size: large;
+    
+    
+}
+.div{
+    image-orientation:0turn;
+    background-color:seagreen
+    
+   
+}
+.img{
+    border-radius: 100px;
+    border-color: darkorange;
+    border-width: 10px; 
+    margin-bottom: 100px;
+    margin-left: 1000px;
+    width:250px;
+    padding:70px;
+    border: 5px solid;
+   
+
+
+    
+}
+.phone{
+    text-align:right;
+    font-size: 40px;
+    color:rebeccapurple;
+    
+    
+}
+.email{
+    text-align: end;
+    font-size: 40px;
+    color: darkorchid;
+    
+}
+.a{
+    color: darkgreen;
+    font-size: 50px;
+}
+.table{
+    background-color: darkorange;
+    font-size: 75px;
+    border-width: 30px;border-color: deeppink;
+}
